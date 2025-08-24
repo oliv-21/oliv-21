@@ -18,6 +18,17 @@
 - **Networking:** Cisco (Packet Tracer, Networking Basics)  
 - **Others:** Git, VS Code, XAMPP, Android (basic Flutter)
 
+## 🔨 Current Project
+- 🌍 **EcoHaven** – E-commerce web & mobile app with Flask API + Flutter  
+- 🏫 **Brightside Global Learning Center** – School management system (CodeIgniter 4)
+
+## 💡 Skills
+- 🔹 Problem-solving & Debugging  
+- 🔹 Database Design & Management    
+- 🔹 Networking Basics (Cisco)  
+- 🔹 Team Collaboration & Project Management  
+
+
 ## 📊 GitHub Stats
 ![oliv-21's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliv-21&show_icons=true&theme=tokyonight)
 
