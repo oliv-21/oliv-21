@@ -13,7 +13,7 @@
 
 ## 🛠️ Languages & Tools 
 - **Languages:** Python, PHP, C#, SQL
-- **Frameworks:** Flask, CodeIgniter, Laravel \
+- **Frameworks:** Flask, CodeIgniter, Laravel 
 - **Databases:** MySQL, Firebase
 - **Networking:** Cisco (Packet Tracer, Networking Basics)
 - **Others:** Git, VS Code, XAMPP, Android (basic Flutter)
