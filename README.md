@@ -11,7 +11,13 @@
 - 📚 Love learning new technologies and improving my skills  
 - 🤝 Open to collaborating on projects and contributing to open-source
 
-## 🛠️ Languages & Tools  
+## 🛠️ Languages & Tools 
+- **Languages:** Python, PHP, C#, SQL
+-  **Frameworks:** Flask, CodeIgniter, Laravel \
+-   **Databases:** MySQL, Firebase
+-    **Networking:** Cisco (Packet Tracer, Networking Basics)
+-     **Others:** Git, VS Code, XAMPP, Android (basic Flutter)
+<-- ## 🛠️ Languages & Tools  
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -32,7 +38,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white) 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  -->
 
 
 
