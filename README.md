@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Roldan Oliveors
+## Hi there 👋 I'm Roldan Oliveoros
 
 
 🎓 **BSIT Student | Aspiring Full-Stack Developer**  
@@ -18,9 +18,16 @@
 - **Networking:** Cisco (Packet Tracer, Networking Basics)  
 - **Others:** Git, VS Code, XAMPP, Android (basic Flutter)
 
-## 🔨 Current Project
-- 🌍 **EcoHaven** – E-commerce web & mobile app with Flask API + Flutter  
+## 🔨 Current Projects
+- 🌍 **EcoHaven** – E-commerce web & mobile app (Flask API + Flutter)  
 - 🏫 **Brightside Global Learning Center** – School management system (CodeIgniter 4)
+
+## 🌱 Currently Learning
+- Git & GitHub for version control  
+- Advanced Laravel features  
+- Flutter for mobile development  
+- More about cloud & deployment  
+
 
 ## 💡 Skills
 - 🔹 Problem-solving & Debugging  
@@ -36,8 +43,15 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: *roldanoliveros21@gmail.com*  
-- 💼 LinkedIn: *www.linkedin.com/in/roldan-oliveros-59250b190*  
+- 📧 Email: roldanoliveros21@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/roldan-oliveros-59250b190)  
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ---
 
