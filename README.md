@@ -46,9 +46,6 @@
 - 📧 Email: roldanoliveros21@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/roldan-oliveros-59250b190)  
 
-
-
-
 ---
 
 ⭐ *“Always learning, always building.”*  
